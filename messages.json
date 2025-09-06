@@ -1,0 +1,456 @@
+{
+  "income": {
+    "greetings":"Hare Krishna! 🙏",
+    "main": "🏦 Need an Income Certificate Urgently?",
+    "description": "We’ll help you get your official Income Certificate quickly and easily for school, job, or government schemes.",
+    "features": [
+      "✅ 100% Genuine",
+      "✅ Fast Process",
+      "✅ Govt Approved"
+    ],
+    "cta": "📲 Reply “Income” to apply now!",
+    "mobile": "9373117698, 9325873718",
+    "request":"Please save the mobile number for futher updates"
+  },
+  "non_creamylayer": {
+  "greetings": "Jai Bhim! 🙏",
+  "main": "📜 Apply for Non-Creamy Layer Certificate Today!",
+  "description": "Use your Non-Creamy Layer Certificate for jobs, education, and scholarships. Quick and reliable service!",
+  "features": [
+    "✅ Hassle-Free Form Filling",
+    "✅ Fast Issuance",
+    "✅ Local & Reliable Service"
+  ],
+  "cta": "💬 Message “NCL” to get started!",
+  "mobile": "9373117698, 9325873718",
+  "request":"Please save the mobile number for futher updates"
+},
+"caste_validity": {
+  "greetings": "Namaste! 🙏",
+  "main": "🧬 Need a Caste Validity Certificate?",
+  "description": "We handle your full process – from documents to submission and follow-up. Perfect for college and jobs.",
+  "features": [
+    "✔️ For SEBC/SC/ST",
+    "✔️ College & Exam Use",
+    "✔️ 100% Assistance"
+  ],
+  "cta": "📲 Type “Caste Validity” to apply now.",
+  "mobile": "9373117698, 9325873718",
+  "request":"Please save the mobile number for futher updates"
+},
+"police_character": {
+  "greetings": "Hello! 👮‍♂️",
+  "main": "🛡️ Need a Police Character Certificate (Charitra Pramanpatra)?",
+  "description": "Apply quickly for passport, job, visa or other official needs. Verified by your local police station.",
+  "features": [
+    "✅ Verified Format",
+    "✅ Police Station Verified",
+    "✅ For Visa, Job, etc."
+  ],
+  "cta": "📩 Send “PCC” to begin.",
+  "mobile": "9373117698, 9325873718",
+  "request":"Please save the mobile number for futher updates"
+},
+"eshram_card": {
+  "greetings": "Namaskar! 🙏",
+  "main": "👷 Get Your E-Shram Card Now!",
+  "description": "For workers in the unorganized sector – register and receive benefits from government schemes.",
+  "features": [
+    "📲 Fast Online Process",
+    "🆓 Free Registration",
+    "📍 Aadhaar Required"
+  ],
+  "cta": "Reply “Eshram” to apply.",
+  "mobile": "9373117698, 9325873718",
+  "request":"Please save the mobile number for futher updates"
+},
+"ayushman_card": {
+  "greetings": "Hare Krishna! 🙏",
+  "main": "🏥 Get Your Ayushman Bharat Card Today!",
+  "description": "Free health insurance worth ₹5 Lakh for you and your family. Apply easily!",
+  "features": [
+    "✅ Govt Approved",
+    "✅ Quick Application",
+    "✅ PAN/Aadhaar Needed"
+  ],
+  "cta": "💬 Type “Ayushman” to check eligibility!",
+  "mobile": "9373117698, 9325873718",
+  "request":"Please save the mobile number for futher updates"
+},
+"voter_id": {
+  "greetings": "🗳️ Hello Voter!",
+  "main": "🪪 Apply or Update Your Voter ID Easily",
+  "description": "Get a new Voter ID or correct existing details online or offline with our help.",
+  "features": [
+    "✅ Online & Offline Options",
+    "✅ Fast Delivery",
+    "✅ All Age 18+ Eligible"
+  ],
+  "cta": "📩 Reply “Voter ID” now.",
+  "mobile": "9373117698, 9325873718",
+  "request":"Please save the mobile number for futher updates"
+},
+"fastag": {
+  "greetings": "Welcome! 🛣️",
+  "main": "🚘 Need FASTag for Your Vehicle?",
+  "description": "⏱️ Tired of toll delays?. Get your FASTag quickly and activate with mobile KYC.",
+  "features": [
+    "🚗 RTO Approved",
+    "📱 Mobile KYC",
+    "📍 Doorstep Option Available"
+  ],
+  "cta": "Reply “FASTAG” to order now.",
+  "mobile": "9373117698, 9325873718",
+  "request":"Please save the mobile number for futher updates"
+},
+"tally_accounting": {
+    "greetings": "Hare Krishna! 🙏",
+    "main": "📈 Need help with Tally Accounting?",
+    "description": "Master your business finances with expert Tally solutions – installation, training, support & customization!",
+    "features": [
+      "✅ Professional Setup",
+      "✅ Business-Ready Reports",
+      "✅ Affordable & Reliable"
+    ],
+    "cta": "📲 Reply “Tally” to get started now!",
+    "mobile": "9373117698, 9325873718",
+    "request":"Please save the mobile number for futher updates"
+  },
+  "sip": {
+    "greetings": "Hare Krishna! 🙏",
+    "main": "📈 Want to grow your wealth smartly?",
+    "description": "Start your SIP/Mutual Fund investment journey with trusted experts.",
+    "features": [
+      "✅ Secure Your Future",
+      "✅ Tax Benefits",
+      "✅ Easy & Paperless"
+    ],
+    "cta": "📲 Reply “SIP” to start investing today!",
+    "mobile": "9373117698, 9325873718",
+    "request":"Please save the mobile number for futher updates"
+  },
+  "resume": {
+    "greetings": "Hare Krishna! 🙏",
+    "main": "🎯 Want to land your dream job?",
+    "description": "We’ll craft the perfect Resume/Profile that gets noticed by recruiters.",
+    "features": [
+      "✅ ATS Friendly",
+      "✅ Professional Look",
+      "✅ Job-Winning Format"
+    ],
+    "cta": "📲 Reply “Resume” to build yours today!",
+    "mobile": "9373117698, 9325873718",
+    "request":"Please save the mobile number for futher updates"
+  },
+  "job": {
+    "greetings": "Hare Krishna! 🙏",
+    "main": "🔔 Looking for a job or career advice?",
+    "description": "Get Job Alerts & Expert Placement Guidance tailored to your skills.",
+    "features": [
+      "✅ Daily Job Updates",
+      "✅ Resume Tips",
+      "✅ Career Support"
+    ],
+    "cta": "📲 Reply “Job” to get started!",
+    "mobile": "9373117698, 9325873718",
+    "request":"Please save the mobile number for futher updates"
+  },
+  "spiral_bind": {
+    "greetings": "Hare Krishna! 🙏",
+    "main": "📘 Need fast & neat Spiral Binding?",
+    "description": "Perfect for projects, reports, assignments & more.",
+    "features": [
+      "✅ Quick Turnaround",
+      "✅ Professional Finish",
+      "✅ Affordable Rates"
+    ],
+    "cta": "📲 Reply “Bind” to book now!",
+    "mobile": "9373117698, 9325873718",
+    "request":"Please save the mobile number for futher updates"
+  },
+  "project": {
+    "greetings": "Hare Krishna! 🙏",
+    "main": "🎓 Need help with your College/School Project?",
+    "description": "Get complete guidance from topic selection to final submission!",
+    "features": [
+      "✅ Subject Experts",
+      "✅ Practical & Theoretical",
+      "✅ Fast Turnaround"
+    ],
+    "cta": "📲 Reply “Project” to get assistance!",
+    "mobile": "9373117698, 9325873718",
+    "request":"Please save the mobile number for futher updates"
+  },
+  "patent": {
+    "greetings": "Hare Krishna! 🙏",
+    "main": "💡 Have an innovative idea?",
+    "description": "Protect it with our Patent Filing Assistance services.",
+    "features": [
+      "✅ Complete Documentation",
+      "✅ Legal Support",
+      "✅ Govt Approved"
+    ],
+    "cta": "📲 Reply “Patent” to safeguard your invention.",
+    "mobile": "9373117698, 9325873718",
+    "request":"Please save the mobile number for futher updates"
+  },
+  "sw_setup": {
+    "greetings": "Hare Krishna! 🙏",
+    "main": "💻 New device or system?",
+    "description": "We offer complete SW/HW Setup assistance for home and office.",
+    "features": [
+      "✅ On-Site / Remote Help",
+      "✅ Expert Technicians",
+      "✅ Quick Setup"
+    ],
+    "cta": "📲 Reply “Setup” to book a technician.",
+    "mobile": "9373117698, 9325873718",
+    "request":"Please save the mobile number for futher updates"
+  },
+  "webapp": {
+    "greetings": "Hare Krishna! 🙏",
+    "main": "🚀 Want to go digital?",
+    "description": "We build powerful Websites & Mobile Apps for your business or idea.",
+    "features": [
+      "✅ Custom Designs",
+      "✅ Fast Delivery",
+      "✅ Affordable Pricing"
+    ],
+    "cta": "📲 Reply “WebApp” to get a quote!",
+    "mobile": "9373117698, 9325873718",
+    "request":"Please save the mobile number for futher updates"
+  },
+  "passport": {
+    "greetings": "Hare Krishna! 🙏",
+    "main": "✈️ Planning to travel abroad?",
+    "description": "We assist with your Passport & Visa application – end to end!",
+    "features": [
+      "✅ Fast Processing",
+      "✅ Document Assistance",
+      "✅ Expert Support"
+    ],
+    "cta": "📲 Reply “Passport” to begin!",
+    "mobile": "9373117698, 9325873718",
+    "request":"Please save the mobile number for futher updates"
+  },
+  "itr": {
+    "greetings": "Hare Krishna! 🙏",
+    "main": "💼 Filing your Income Tax Return?",
+    "description": "Avoid penalties – let experts handle your ITR.",
+    "features": [
+      "✅ Accurate Filing",
+      "✅ Maximize Refund",
+      "✅ CA Verified"
+    ],
+    "cta": "📲 Reply “ITR” to file today!",
+    "mobile": "9373117698, 9325873718",
+    "request":"Please save the mobile number for futher updates"
+  },
+  "gst": {
+    "greetings": "Hare Krishna! 🙏",
+    "main": "📊 Need GST Registration or Return Filing?",
+    "description": "We provide fast, professional GST services for individuals & businesses.",
+    "features": [
+      "✅ Hassle-Free Filing",
+      "✅ CA Certified",
+      "✅ Timely Support"
+    ],
+    "cta": "📲 Reply “GST” to get started!",
+    "mobile": "9373117698, 9325873718",
+    "request":"Please save the mobile number for futher updates"
+  },
+  "gumasta_license": {
+    "greetings": "Hare Krishna! 🙏",
+    "main": "🏪 Starting a business?",
+    "description": "Get your Gumasta License quickly with our help.",
+    "features": [
+      "✅ Govt Approved",
+      "✅ All-In-One Assistance",
+      "✅ Fast Turnaround"
+    ],
+    "cta": "📲 Reply “Gumasta” to apply now!",
+    "mobile": "9373117698, 9325873718",
+    "request":"Please save the mobile number for futher updates"
+  },
+  "food_license": {
+    "greetings": "Hare Krishna! 🙏",
+    "main": "🍔 Planning a food business?",
+    "description": "Secure your FSSAI Food License with us today!",
+    "features": [
+      "✅ Govt Approved",
+      "✅ All Food Categories Covered",
+      "✅ Hassle-Free Process"
+    ],
+    "cta": "📲 Reply “Food” to apply!",
+    "mobile": "9373117698, 9325873718",
+    "request":"Please save the mobile number for futher updates"
+  },
+  "rajpatra": {
+    "greetings": "Hare Krishna! 🙏",
+    "main": "📄 Need an official Rajpatra (Government Gazette)?",
+    "description": "We provide authenticated, legally accepted Rajpatra services.",
+    "features": [
+      "✅ Govt Verified",
+      "✅ Fast Processing"
+    ],
+    "cta": "📲 Reply “Rajpatra” to apply now!",
+    "mobile": "9373117698, 9325873718",
+    "request":"Please save the mobile number for futher updates"
+  },
+  "driving_license": {
+    "greetings": "Hare Krishna! 🙏",
+    "main": "🛵 Want your Driving License fast?",
+    "description": "We help with new DL applications, renewals, and more!",
+    "features": [
+      "✅ RTO Assistance",
+      "✅ Easy Documentation"
+    ],
+    "cta": "📲 Reply “DL” to apply today!",
+    "mobile": "9373117698, 9325873718",
+    "request":"Please save the mobile number for futher updates"
+  },
+  "pension": {
+    "greetings": "Hare Krishna! 🙏",
+    "main": "👴 Planning your retirement?",
+    "description": "Enroll in Kamgar Pension Yojana for financial support.",
+    "features": [
+      "✅ Govt Scheme",
+      "✅ Easy Enrollment"
+    ],
+    "cta": "📲 Reply “Pension” to apply now!",
+    "mobile": "9373117698, 9325873718",
+    "request":"Please save the mobile number for futher updates"
+  },
+  "pf": {
+    "greetings": "Hare Krishna! 🙏",
+    "main": "💼 Need help with PF Withdrawal?",
+    "description": "Fast, secure and error-free PF processing by our experts.",
+    "features": [
+      "✅ Online/Offline Support",
+      "✅ Quick Disbursal"
+    ],
+    "cta": "📲 Reply “PF” to get started!",
+    "mobile": "9373117698, 9325873718",
+    "request":"Please save the mobile number for futher updates"
+  },
+  "loan": {
+    "greetings": "Hare Krishna! 🙏",
+    "main": "🏠 Need funds?",
+    "description": "Get expert help with Personal, Business or Home Loans.",
+    "features": [
+      "✅ Best Bank Offers",
+      "✅ Quick Approvals"
+    ],
+    "cta": "📲 Reply “Loan” to check eligibility!",
+    "mobile": "9373117698, 9325873718",
+    "request":"Please save the mobile number for futher updates"
+  },
+  "vehicle_insurance": {
+    "greetings": "Hare Krishna! 🙏",
+    "main": "🛡️ Insure your vehicle today!",
+    "description": "Get All Vehicle Insurance done quickly.",
+    "features": [
+      "✅ All Vehicle Types",
+      "✅ Instant Policy"
+    ],
+    "cta": "📲 Reply “Vima” to get covered!",
+    "mobile": "9373117698, 9325873718",
+    "request":"Please save the mobile number for futher updates"
+  },
+  "ticket": {
+    "greetings": "Hare Krishna! 🙏",
+    "main": "🧳 Planning to travel?",
+    "description": "Book your Train, Flight, or Bus Tickets with ease.",
+    "features": [
+      "✅ Confirmed Booking",
+      "✅ 24x7 Support"
+    ],
+    "cta": "📲 Reply “Ticket” to book now!",
+    "mobile": "9373117698, 9325873718",
+    "request":"Please save the mobile number for futher updates"
+  },
+  "712": {
+    "greetings": "Hare Krishna! 🙏",
+    "main": "📜 Need your 7/12/8A Land Records?",
+    "description": "Get official extracts quickly & securely.",
+    "features": [
+      "✅ Govt Verified",
+      "✅ Easy Application"
+    ],
+    "cta": "📲 Reply “712” to apply now!",
+    "mobile": "9373117698, 9325873718",
+    "request":"Please save the mobile number for futher updates"
+  },
+  "kamgarNondani": {
+    "greetings": "Hare Krishna! 🙏",
+    "main": "🧾 Register for Kamgar Nondani (Labour Registration)",
+    "description": "Enroll now to avail various labour welfare schemes.",
+    "features": [
+      "✅ Govt Scheme Benefits",
+      "✅ Secure Your Future"
+    ],
+    "cta": "📲 Reply “Nondani” to register!",
+    "mobile": "9373117698, 9325873718",
+    "request":"Please save the mobile number for futher updates"
+  },
+  "rte": {
+    "greetings": "Hare Krishna! 🙏",
+    "main": "🎓 Apply under Right to Education (RTE)",
+    "description": "Get free admission in private schools under RTE Act.",
+    "features": [
+      "✅ School Admission",
+      "✅ 100% Govt Support"
+    ],
+    "cta": "📲 Reply “RTE” to apply today!",
+    "mobile": "9373117698, 9325873718",
+    "request":"Please save the mobile number for futher updates"
+  },
+  "rent_agreement": {
+    "greetings": "Hare Krishna! 🙏",
+    "main": "🏠 Need a Rent Agreement?",
+    "description": "We create legally valid rent agreements in minutes.",
+    "features": [
+      "✅ Notarized & E-Registered",
+      "✅ Customizable"
+    ],
+    "cta": "📲 Reply “Rent” to draft yours!",
+    "mobile": "9373117698, 9325873718",
+    "request":"Please save the mobile number for futher updates"
+  },
+  "insurance": {
+    "greetings": "Hare Krishna! 🙏",
+    "main": "🛡️ Secure your life & health today!",
+    "description": "Get affordable Health & Life Insurance with high coverage.",
+    "features": [
+      "✅ IRDAI Approved",
+      "✅ Trusted Providers"
+    ],
+    "cta": "📲 Reply “Insurance” to explore plans!",
+    "mobile": "9373117698, 9325873718",
+    "request":"Please save the mobile number for futher updates"
+  },
+  "kamgar": {
+    "greetings": "Hare Krishna! 🙏",
+    "main": "👷‍♂️ Construction Workers – Apply for Bandhkam Kamgar Yojna",
+    "description": "Avail benefits under the government’s welfare scheme for workers.",
+    "features": [
+      "✅ Financial Aid & Benefits",
+      "✅ Govt Certified"
+    ],
+    "cta": "📲 Reply “Kamgar” to apply!",
+    "mobile": "9373117698, 9325873718",
+    "request":"Please save the mobile number for futher updates"
+  },
+  "aadhar": {
+    "greetings": "Hare Krishna! 🙏",
+    "main": "🆔 Need Aadhar Card Services?",
+    "description": "Get your Aadhar Card made, updated or linked with ease.",
+    "features": [
+      "✅ Fast Processing",
+      "✅ Online & Offline Options"
+    ],
+    "cta": "📲 Reply “Aadhar” to apply now!",
+    "mobile": "9373117698, 9325873718",
+    "request":"Please save the mobile number for futher updates"
+  }
+}

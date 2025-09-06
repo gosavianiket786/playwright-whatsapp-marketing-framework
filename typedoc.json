@@ -1,0 +1,13 @@
+{
+    "$schema": "https://typedoc.org/schema.json",
+    "entryPoints": ["./playwright/steps/**/*.ts", "./playwright/pages/**/*.ts"],
+    "exclude": ["**/node_modules/**"],
+    "out": "doc",
+    "cleanOutputDir": true,
+    "darkHighlightTheme": "dark-plus",
+    "theme": "default",
+    "entryPointStrategy": "expand",
+    "externalPattern": ["**/node_modules/**"],
+    "name": "<<Project Name Here>>",
+    "readme": "./README.md"
+  }
